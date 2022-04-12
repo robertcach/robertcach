@@ -1,6 +1,6 @@
 ### Hi there, I'm Robert 👋
 
-
+I'm a Junior Frontend Developer and Web Designer. 💻
 
 <!--
 **robertcach/robertcach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

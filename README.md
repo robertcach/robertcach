@@ -1,6 +1,5 @@
 ### Hi there, I'm Robert 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertcach&langs_count=10&theme=tokyonight&layout=compact" alt="Robert Cabrera:: Top Langs" />
 
 
 <!--

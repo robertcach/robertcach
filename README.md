@@ -1,6 +1,6 @@
 # Hi there, I'm Robert 👋
 
-I'm a Frontend Developer and web designer who has many weapons with which to develop amazing web pages.<br/>Do you want to know what they are? Take a look below ⬇️⬇️⬇️
+I'm a Frontend Developer and web designer who has many weapons with which to develop web pages.<br/>Do you want to know what they are? Take a look below ⬇️⬇️⬇️
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass)](https://skillicons.dev)

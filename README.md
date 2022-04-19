@@ -1,6 +1,15 @@
-### Hi there, I'm Robert 👋
+# Hi there, I'm Robert 👋
 
-I'm a Junior Frontend Developer and Web Designer. 💻
+I'm a Frontend Developer and web designer who has many weapons with which to develop amazing web pages.<br/>Do you want to know what they are? Take a look below ⬇️⬇️⬇️
+
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass)](https://skillicons.dev)
+
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs)](https://skillicons.dev)
+
+#### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,git,github)](https://skillicons.dev)
 
 <!--
 **robertcach/robertcach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

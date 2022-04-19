@@ -9,7 +9,7 @@ I'm a Frontend Developer and web designer who has many weapons with which to dev
 [![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs)](https://skillicons.dev)
 
 #### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,ps,ai)](https://skillicons.dev)
 
 <!--
 **robertcach/robertcach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
